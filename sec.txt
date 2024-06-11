@@ -1,1 +1,2 @@
-Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS
+Git is easy to learn and has a tiny footprint with lightning fast performance. 
+It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with ...
